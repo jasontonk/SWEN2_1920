@@ -23,3 +23,13 @@ Fork this repo and perform the requested actions.
     Studentnr: 2150052 
 
     projectgroup: SOb
+    
+  3-feature-SiemVanOirschot: 
+
+  featurebranch created by: 
+
+    Siem Van Oirschot 
+
+    Studentnr: 2149472 
+
+    projectgroup: SOb
