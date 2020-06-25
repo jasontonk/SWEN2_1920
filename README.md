@@ -13,7 +13,7 @@ Fork this repo and perform the requested actions.
   Initiate a pull request, update the dev branch (require 2 reviewers)
   
   After finishing feature initiate a pull request to the main branch, review and merge accordingly.
-  
+
   1-feature-JasonTonk:
   
   featurebranch created by: 
@@ -21,5 +21,25 @@ Fork this repo and perform the requested actions.
     Jason Tonk
     
     Studentnr: 2163027
+    
+    projectgroup: SOb
+
+  2-feature-MatheusPires: 
+
+  featurebranch created by: 
+  
+    Matheus Pires 
+
+    Studentnr: 2150052 
+
+    projectgroup: SOb
+    
+  3-feature-SiemVanOirschot: 
+
+  featurebranch created by: 
+
+    Siem Van Oirschot 
+
+    Studentnr: 2149472 
     
     projectgroup: SOb
