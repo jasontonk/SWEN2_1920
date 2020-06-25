@@ -14,10 +14,12 @@ Fork this repo and perform the requested actions.
   
   After finishing feature initiate a pull request to the main branch, review and merge accordingly.
 
-2-feature-MatheusPires: 
+  2-feature-MatheusPires: 
 
-  featurebranch created by: Matheus Pires 
+  featurebranch created by: 
+  
+    Matheus Pires 
 
-  Studentnr: 2150052 
+    Studentnr: 2150052 
 
-  projectgroup: SOb
+    projectgroup: SOb
