@@ -15,7 +15,11 @@ Fork this repo and perform the requested actions.
   After finishing feature initiate a pull request to the main branch, review and merge accordingly.
   
   1-feature-JasonTonk:
+  
   featurebranch created by: 
+  
     Jason Tonk
+    
     Studentnr: 2163027
+    
     projectgroup: SOb
