@@ -14,10 +14,42 @@ Fork this repo and perform the requested actions.
   
   After finishing feature initiate a pull request to the main branch, review and merge accordingly.
 
-Created by
 
-Rutger Willems
+  1-feature-JasonTonk:
+  
+  featurebranch created by: 
+  
+    Jason Tonk
+    
+    Studentnr: 2163027
+    
+    projectgroup: SOb
 
-2160108
+  2-feature-MatheusPires: 
 
-So4b
+  featurebranch created by: 
+  
+    Matheus Pires 
+
+    Studentnr: 2150052 
+
+    projectgroup: SOb
+    
+  3-feature-SiemVanOirschot: 
+
+  featurebranch created by: 
+
+    Siem Van Oirschot 
+
+    Studentnr: 2149472 
+    
+    projectgroup: SOb
+  4-feature-RutgerWillems
+  
+  featurebranch created by:
+
+    Rutger Willems
+  
+    Studentnr: 2160108
+
+    projectgroup: So4b
