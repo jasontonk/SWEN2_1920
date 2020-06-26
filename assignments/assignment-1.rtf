@@ -1,1 +1,23 @@
 Add a (separate) paragraph of text and a link to an information page for 2 of the main branching strategies when working with GIT
+
+1. Git Flow:
+
+The Git Flow is the most known workflow on this list. It was created by Vincent Driessen in 2010 and it is based in two main branches with infinite lifetime:
+master — this branch contains production code. All development code is merged into master in sometime.
+develop — this branch contains pre-production code. When the features are finished then they are merged into develop.
+During the development cycle, a variety of supporting branches are used:
+feature-* — feature branches are used to develop new features for the upcoming releases. May branch off from develop and must merge into develop.
+hotfix-* — hotfix branches are necessary to act immediately upon an undesired status of master. May branch off from master and must merge into master and develop.
+release-* — release branches support preparation of a new production release. They allow many minor bug to be fixed and preparation of meta-data for a release. May branch off from develop and must merge into master and develop.
+
+2.GitHub Flow:
+
+The GitHub Flow is a lightweight workflow. It was created by GitHub in 2011 and respects the following 6 principles:
+Anything in the master branch is deployable
+To work on something new, create a branch off from master and given a descriptively name(ie: new-oauth2-scopes)
+Commit to that branch locally and regularly push your work to the same named branch on the server
+When you need feedback or help, or you think the branch is ready for merging, open a pull request
+After someone else has reviewed and signed off on the feature, you can merge it into master
+Once it is merged and pushed to master, you can and should deploy immediately
+
+Source link: https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf#:~:text=Commit%20to%20that%20branch%20locally,can%20merge%20it%20into%20master
