@@ -24,6 +24,17 @@ Fork this repo and perform the requested actions.
 
     projectgroup: SOb
 
+
+  1-feature-JasonTonk:
+  
+  featurebranch created by: 
+  
+    Jason Tonk
+    
+    Studentnr: 2163027
+    
+    projectgroup: SOb
+
   2-feature-MatheusPires: 
 
   featurebranch created by: 
@@ -41,5 +52,14 @@ Fork this repo and perform the requested actions.
     Siem Van Oirschot 
 
     Studentnr: 2149472 
-
+    
     projectgroup: SOb
+  4-feature-RutgerWillems
+  
+  featurebranch created by:
+
+    Rutger Willems
+  
+    Studentnr: 2160108
+
+    projectgroup: So4b

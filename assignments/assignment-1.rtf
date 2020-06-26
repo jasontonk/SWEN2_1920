@@ -1,5 +1,6 @@
 Add a (separate) paragraph of text and a link to an information page for 2 of the main branching strategies when working with GIT
 
+Azmat:
 1. Git Flow:
 
 The Git Flow is the most known workflow on this list. It was created by Vincent Driessen in 2010 and it is based in two main branches with infinite lifetime:
@@ -21,3 +22,15 @@ After someone else has reviewed and signed off on the feature, you can merge it 
 Once it is merged and pushed to master, you can and should deploy immediately
 
 Source link: https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf#:~:text=Commit%20to%20that%20branch%20locally,can%20merge%20it%20into%20master
+
+Jason:
+One of the main branching strategies when working with GIT is GitFlow
+This strategy uses 2 main branches, which are Master and develop. Along with these main branches there are also a few supporting branches. These are, features, hotfix and release.
+In the feature branch, the different features of the program get created and after they are finished, they are pulled to the development Branch. Hotfixes are created from the 
+Master to fix small problems. Releases are created from the development Branch. These releases are tests for the eventual working version
+
+Another main branching strategy when working with GIT is Github Flow
+This Strategy uses a master branch and several feature branches. These feature branches are pulled to a Integration Branch and the deployed on the main branch. If error are 
+created by deploying, the master branch get re-deployed to its old state and the features are fixed. 
+
+Link: https://pradeeploganathan.com/git/git-branching-strategies/
