@@ -13,6 +13,16 @@ Fork this repo and perform the requested actions.
   Initiate a pull request, update the dev branch (require 2 reviewers)
   
   After finishing feature initiate a pull request to the main branch, review and merge accordingly.
+  
+   1-feature-MatheusPires: 
+
+  featurebranch created by: 
+  
+    Azmat Aizimaiti
+
+    Studentnr: 2150058 
+
+    projectgroup: SOb
 
   2-feature-MatheusPires: 
 
