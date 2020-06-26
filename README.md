@@ -14,6 +14,7 @@ Fork this repo and perform the requested actions.
   
   After finishing feature initiate a pull request to the main branch, review and merge accordingly.
 
+
   1-feature-JasonTonk:
   
   featurebranch created by: 
@@ -43,3 +44,12 @@ Fork this repo and perform the requested actions.
     Studentnr: 2149472 
     
     projectgroup: SOb
+  4-feature-RutgerWillems
+  
+  featurebranch created by:
+
+    Rutger Willems
+  
+    Studentnr: 2160108
+
+    projectgroup: So4b
